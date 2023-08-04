@@ -4,7 +4,7 @@ using UnityEditor;
 using UnityEngine;
 
 public class SaveMesh : EditorWindow {
-    [MenuItem("美术工具/Mesh 储存")]
+    [MenuItem("ArtTools/Mesh Save As")]
     private static void ShowWindow() {
         var window = GetWindow<SaveMesh>();
         window.titleContent = new GUIContent("Mesh工具");
