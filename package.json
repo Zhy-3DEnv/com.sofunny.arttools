@@ -1,0 +1,5 @@
+{
+    "dependencies": {
+      "com.mycompany.mypackage": "git@github.com:Zhy-3DEnv/ArtTools.git"
+    }
+  }
