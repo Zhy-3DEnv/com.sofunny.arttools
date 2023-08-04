@@ -1,5 +1,7 @@
 {
-    "dependencies": {
-      "com.mycompany.mypackage": "git@github.com:Zhy-3DEnv/ArtTools.git"
-    }
-  }
+  "name": "com.sofunny.arttools",
+  "displayName": "ArtTools",
+  "version": "0.2.0",
+  "unity": "2019.4",
+  "description": ""
+}
